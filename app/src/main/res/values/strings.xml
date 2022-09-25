@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContentProviderStudy</string>
+    <string name="button_calendarActivity">Calendar Activity</string>
 </resources>
